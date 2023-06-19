@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @deepanshu-justa
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning php and Laravel
-<!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 Rech me through email- justadeepanshu@gmail.com
+# Welcome to My GitHub Profile!
 
-<!---
-deepanshu-justa/deepanshu-justa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! I'm Deepanshu Justa, a passionate Web Developer from Shimla. Welcome to my GitHub profile, where you can learn more about me and my interests.
+
+## About Me
+
+- 💻 I'm a PHP Developer with a keen interest in Full Stack Development.
+- 🌱 I'm constantly learning and exploring new technologies to expand my knowledge.
+- 😄 Pronouns: He/Him
+
+## Goals
+
+- 🔭 I'm currently working on building my skills and expanding my knowledge in Backend Development.
+- 🌟 My goal is to collaborate on open-source projects and contribute to the developer community.
+
+## Get in Touch
+
+- 📫 How to reach me: justadeepanshu@gmail.com
+
+Thanks for visiting my profile, and I look forward to connecting with you!
